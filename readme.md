@@ -1,0 +1,2 @@
+macのchromeを介して、windowをキャプチャするscript。`cut.zsh`でdirにあるpngの余分なheader及びfooterなどを除去してrename。
+
